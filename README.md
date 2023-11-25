@@ -11,7 +11,8 @@ Multiples metrics evaluator (PSNR, LPIPS, SyncNet...), combination of several re
 
 ## PSNR, LPIPS
 
-`psnr_lpips_calculator`
+put the evaluation video in the folder `./vids`
+
 extract the target frames for evaluation by `extract_frame.py`, and change the path in main function
 ```
 python extract_frame.py
