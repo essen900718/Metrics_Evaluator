@@ -1,0 +1,4 @@
+AV offset: 	-6 
+Min dist: 	9.934
+Confidence: 	4.664
+9.934214 4.664277
